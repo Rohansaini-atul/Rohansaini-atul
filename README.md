@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning SQL,Power BI.
 - 💞️ I’m looking to collaborate on projects related to data analysis.
 - 📫 If you are intrested then you can mail me.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 --->
