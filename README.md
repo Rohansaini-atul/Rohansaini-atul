@@ -1,7 +1,9 @@
 Hi there, I'm Rohan! 👋
+
 I am a Data Analyst in the making and a final-year BCA student with a passion for uncovering stories hidden in data. I don't just believe in finding the right answer; I believe in understanding the logic behind every query.
 
 🚀 What I’m Working On
+
 📊 Deep-diving into SQL: Solving complex challenges and optimizing queries.
 
 🐍 Refining Python Skills: Expanding my toolkit with new data libraries.
