@@ -13,6 +13,7 @@ I am a Data Analyst in the making and a final-year BCA student with a passion fo
 💼 Portfolio Design: Crafting a digital space to showcase my data journey.
 
 🛠 Tech Stack
+
 Languages: SQL, Python (Pandas, NumPy)
 
 Visualization: Power BI, Excel
