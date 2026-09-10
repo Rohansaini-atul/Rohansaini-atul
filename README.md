@@ -1,6 +1,6 @@
 Hi there, I'm Rohan! 👋
 
-I am a Data Analyst in the making and a final-year BCA student with a passion for uncovering stories hidden in data. I don't just believe in finding the right answer; I believe in understanding the logic behind every query.
+I am a Data Analyst ,BCA Graduate with a passion for uncovering stories hidden in data. I don't just believe in finding the right answer; I believe in understanding the logic behind every query.
 
 🚀 What I’m Working On
 
