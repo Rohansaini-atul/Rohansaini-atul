@@ -8,7 +8,7 @@ I am a Data Analyst in the making and a final-year BCA student with a passion fo
 
 🐍 Refining Python Skills: Expanding my toolkit with new data libraries.
 
-🛠️ Management Tools: Learning ClickUp to streamline my project workflows.
+🛠️ Management Tools: Learning Notion to streamline my project workflows.
 
 🍕 New Project: Developing a comprehensive Pizza Sales Analysis dashboard.
 
@@ -20,7 +20,9 @@ Languages: SQL, Python (Pandas, NumPy)
 
 Visualization: Power BI, Excel
 
-Tools: ClickUp, GitHub, Jupyter Notebook
+Technical Documentation: Canva, Draw.io, Exaclidraw
+
+Tools: Notion, GitHub, Jupyter Notebook
 
 🧠 Beyond the Code
 When I'm not looking at data points, I'm likely exercising my brain in other ways:
